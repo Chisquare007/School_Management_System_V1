@@ -33,3 +33,7 @@ header ul a {
     color: #fff;
     font-size: 1rem;
 }
+
+header ul a:hover {
+   color: orange;
+}
