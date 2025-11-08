@@ -9,6 +9,6 @@ header .logo > a:hover {
     color: orange;
 }
 
-header .logo .hover{
+header .logo {
     float: left;
 }
