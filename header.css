@@ -27,3 +27,9 @@ header ul {
     justify-content: right;
     gap: 2rem;
 }
+
+header ul a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 1rem;
+}
