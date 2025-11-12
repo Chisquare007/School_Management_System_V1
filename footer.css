@@ -13,3 +13,9 @@ footer {
     margin-inline-start: 130px;
     align-items: start;
 }
+
+.footer-logo h2 {
+    color: orange;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
