@@ -25,9 +25,14 @@ footer {
     line-height: 1.5;
 }
 
-.footer-contacts h3, 
+.footer-contact h3, 
 .footer-links h3 {
     margin-bottom: 15px;
     font-size: 18px;
     color: orange;
+}
+
+.footer-links ul {
+    list-style: none;
+    padding: 0px;
 }
