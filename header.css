@@ -12,7 +12,7 @@ body{
 
 header {
 
-    background-color: #333333;
+    background: linear-gradient(135deg, #2a3d4a, #111a20); /* contrast color */;
     position: relative;
     color: white;
     text-align: right;
