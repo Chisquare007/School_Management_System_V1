@@ -11,4 +11,5 @@ footer {
     gap: 40px;
     max-width: 1100px;
     margin-inline-start: 130px;
+    align-items: start;
 }
