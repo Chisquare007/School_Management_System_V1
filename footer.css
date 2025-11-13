@@ -61,4 +61,8 @@ footer {
     color: orange;
 }
 
-.footer-socials a {}
+.footer-socials a {
+    color: white;
+    font-size: 20px;
+    margin-right: 15px;
+}
