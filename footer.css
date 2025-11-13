@@ -56,7 +56,9 @@ footer {
     margin: 8px 0;
 }
 
-.footer-contact p i {
+.footer-contact i {
     margin-right: 10px;
     color: orange;
 }
+
+.footer-socials a {}
