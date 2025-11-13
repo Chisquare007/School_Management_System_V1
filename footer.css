@@ -50,3 +50,8 @@ footer {
 .footer-links ul li a:hover {
     color: orange;
 }
+
+.footer-contact p {
+    font-size: 14px;
+    margin: 8px 0;
+}
