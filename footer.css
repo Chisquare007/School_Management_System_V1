@@ -72,3 +72,9 @@ footer {
     color: orange;
     transform: scale(1.2);
 }
+
+.footer-bottom {
+    text-align: center;
+    font-size: 13px;
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+}
