@@ -90,4 +90,8 @@ footer {
     margin-inline-start: 0;
 }
 
+.footer-socials a {
+    margin-top: 10px;
+}
+
 }
