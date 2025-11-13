@@ -86,4 +86,8 @@ footer {
         text-align: center;
 }
 
+.footer-container {
+    margin-inline-start: 0;
+}
+
 }
